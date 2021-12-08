@@ -1,0 +1,22 @@
+*{
+    padding-top: 20px;
+}
+
+h1{
+    text-align: center
+}
+
+p{
+    text-align: center;
+}
+
+.workplace{
+    text-align: center;
+}
+
+input{
+    text-align: center;
+    width:50px;
+    height: 15px;
+}
+

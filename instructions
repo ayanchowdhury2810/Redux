@@ -1,0 +1,2 @@
+1.  For installing redux and connect it to react: 
+    npm i redux react-redux
